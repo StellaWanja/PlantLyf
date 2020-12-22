@@ -457,6 +457,7 @@ a{
 .popular-slide{
     height: 60vh;
     width: 100%;
+    margin-bottom: 20px;
 }
 
 .popular-slide h2{
